@@ -5,7 +5,7 @@ library(caTools)
 # /* --------------------------------------------------------------------------------------- */
 # /* Set working directory to this problem and read the csv file                             */
 # /* --------------------------------------------------------------------------------------- */
-setwd("/home/jardel/learning-ml/Problems/Classify Iris")
+setwd("learning-ml/Problems/Classify Iris")
 df <- read.csv("data/Iris.csv")
 
 # /* --------------------------------------------------------------------------------------- */
